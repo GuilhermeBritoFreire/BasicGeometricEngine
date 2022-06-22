@@ -1,0 +1,4 @@
+criar recursos basicos para render de texto
+criar templete basicos para texto
+criar recursos basicos para rpg
+criar recursos basicos para plano cartesiano

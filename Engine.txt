@@ -1,0 +1,6 @@
+Basic Geometric Engine - BGE
+
+linguagem - C#
+tipo - grafico 2d basico sem textura com openGL & ASCII
+plataforma - windows
+foco - RPG & arcade
